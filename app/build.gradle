@@ -7,6 +7,7 @@ android {
     defaultConfig {
         applicationId "hanz.com.mymemo"
         minSdkVersion 17
+        //noinspection ExpiredTargetSdkVersion
         targetSdkVersion 23
         versionCode 1
         versionName "1.0"
